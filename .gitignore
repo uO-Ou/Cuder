@@ -1,0 +1,9 @@
+*.sln
+*.suo
+*.pdb
+*.user
+*.sdf
+*.filters
+/x64
+/Debug
+*.vcxproj
